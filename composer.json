@@ -1,0 +1,14 @@
+{
+    "name": "bughu/test",
+    "description": "测试",
+    "type": "library",
+    "require": {
+        "php": "^7.3"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Guanguans\\": "src/"
+        }
+    }
+}
